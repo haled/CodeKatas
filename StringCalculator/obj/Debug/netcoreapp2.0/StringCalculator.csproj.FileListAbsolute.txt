@@ -1,0 +1,10 @@
+/code/StringCalculatorKata/StringCalculator/bin/Debug/netcoreapp2.0/StringCalculator.deps.json
+/code/StringCalculatorKata/StringCalculator/bin/Debug/netcoreapp2.0/StringCalculator.runtimeconfig.json
+/code/StringCalculatorKata/StringCalculator/bin/Debug/netcoreapp2.0/StringCalculator.runtimeconfig.dev.json
+/code/StringCalculatorKata/StringCalculator/bin/Debug/netcoreapp2.0/StringCalculator.dll
+/code/StringCalculatorKata/StringCalculator/bin/Debug/netcoreapp2.0/StringCalculator.pdb
+/code/StringCalculatorKata/StringCalculator/obj/Debug/netcoreapp2.0/StringCalculator.csproj.CoreCompileInputs.cache
+/code/StringCalculatorKata/StringCalculator/obj/Debug/netcoreapp2.0/StringCalculator.AssemblyInfoInputs.cache
+/code/StringCalculatorKata/StringCalculator/obj/Debug/netcoreapp2.0/StringCalculator.AssemblyInfo.cs
+/code/StringCalculatorKata/StringCalculator/obj/Debug/netcoreapp2.0/StringCalculator.dll
+/code/StringCalculatorKata/StringCalculator/obj/Debug/netcoreapp2.0/StringCalculator.pdb
