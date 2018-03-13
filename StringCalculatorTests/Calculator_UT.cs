@@ -13,5 +13,13 @@ namespace StringCalculatorTests
             var result = testObject.Add("");
             Assert.Equal(0, result);
         }
+
+	[Fact]
+	public void AddSingleNumberReturnsItself()
+	{
+	    Calculator testObject = new Calculator();
+	    var result = testObject.Add("1");
+	    Assert.Equal(1, result);
+	}
     }
 }
