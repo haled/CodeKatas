@@ -27,3 +27,8 @@ The following is a TDD Kata- an exercise in coding, refactoring and test-first, 
 
 ### Kata Attribution ###
 This is based on the String Calculator kata by Roy Osherove:  http://osherove.com/tdd-kata-1/  I've simplified the requirements to see if I can make it easy to hold in one's head.
+
+## Additional Techniques ##
+
+### Programming to Interfaces ###
+The basic implementation I created didn't need interfaces, yet most of the programming I've done has used interfaces.  Modify the kata to use an interface.
