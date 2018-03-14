@@ -8,6 +8,9 @@ The premise I'm trying out is that a programmer can use a small set of well-unde
 
 Below I describe a basic version of the String Calculator Kata.  My master branch of this repository contains the initial implementation I created by following the steps below for the kata.  As I try out different programming techniques, I will describe the technique below and create a branch for it.  (I'm still debating whether the different techniques are best learned by branching the original solution and modifying it or by creating the solution from scratch.  I will try both in the repository at some point.)
 
+## Blatant Oversight ##
+I am using C#, .NET Core, and XUnit in this repository for the solutions.  Obviously, the katas can be implemented in other languages and platforms.  An exercise of the katas could be for learning different unit testing frameworks.  For simplicity, I'm going to keep this repository focused on C#, .NET Core, and XUnit.  (At least until I want to try them in a different language. ;))
+
 ## String Calculator Kata ##
 The following is a TDD Kata- an exercise in coding, refactoring and test-first, that you should apply daily for at least 15 minutes (I do 30).
 
