@@ -2,7 +2,7 @@ using System;
 
 namespace StringCalculator
 {
-    public class Calculator
+    public class Calculator : ICalculator
     {
         private readonly char DEFAULT_DELIMITER = ',';
         private char _delimiter;
