@@ -1,11 +1,6 @@
-# Learning through Kata #
+# String Calculator Kata #
 
 ## Overview ##
-Katas in martial arts are sequences of techniques that are memorized and used to practice those techniques.  In programming, the term kata has been borrowed to describe small programs that can be written to practice coding techniques.  This repository is my exploration of using coding katas to learn a number of different programming topics.
-
-## Premise ##
-The premise I'm trying out is that a programmer can use a small set of well-understood programming katas to improve one's skills and learn new ones.  By limiting the number of katas, it becomes trivial for a programmer to have the "requirements" memorized, making it easier to do the programming.  The trick comes in the form of applying different concepts or techniques to the same kata.
-
 Below I describe a basic version of the String Calculator Kata.  My master branch of this repository contains the initial implementation I created by following the steps below for the kata.  As I try out different programming techniques, I will describe the technique below and create a branch for it.  (I'm still debating whether the different techniques are best learned by branching the original solution and modifying it or by creating the solution from scratch.  I will try both in the repository at some point.)
 
 ## Blatant Oversight ##
